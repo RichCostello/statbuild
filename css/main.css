@@ -567,7 +567,7 @@ ul#add_sub_nav button {
   height: 100%;
   background-size: cover;
   background-position: center center;
-  background-image: url("./images/station_signup.jpg"); }
+  background-image: url("../images/station_signup.jpg"); }
 
 /* line 124, /Users/richardcostello/Sites/s-web-react/app/styles/_mdl.scss */
 .acitivity-post {
@@ -1561,7 +1561,7 @@ body {
   height: 100%;
   left: 0;
   top: 0;
-  background: url("/images/rectangle_1.png");
+  background: url("../images/rectangle_1.png");
   background-size: cover; }
 
 /* line 42, /Users/richardcostello/Sites/s-web-react/app/styles/pages/_Marketing.scss */
