@@ -45,7 +45,7 @@
 
 @font-face {
   font-family: "JennaSue";
-  src: url("/fonts/JennaSue.ttf"), url("/fonts/jennasue-webfont.woff");
+  src: url("../../fonts/JennaSue.ttf"), url("../../fonts/jennasue-webfont.woff");
   font-weight: normal;
   font-style: normal; }
 
